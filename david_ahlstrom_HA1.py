@@ -1,17 +1,3 @@
-#-------------------------------------------------------------------------------
-# david_ahlstrom_HA1
-# Student Name: David Ahlstrom
-# Submission Date: 09/22/2022
-#-------------------------------------------------------------------------------
-# Honor Code Statement: I received no assistance on this assignment that
-# violates the ethical guidelines as set forth by the
-# instructor and the class syllabus.
-#-------------------------------------------------------------------------------
-# References: Slides and example code on Blackboard
-#-------------------------------------------------------------------------------
-# Notes to grader: 
-#-------------------------------------------------------------------------------
-
 from datetime import date
 
 #Task class, charged with initializing, getting, modifying, and returning a string of relevant information
